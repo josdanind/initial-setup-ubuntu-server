@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install Neovim
-#sudo snap install nvim --classic
+sudo snap install nvim --classic
 
 DIRBASE=/home/root/.config/nvim
 DIR_AUTOLOAD=${DIRBASE}/autoload
