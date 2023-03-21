@@ -24,6 +24,7 @@ fi
 
 cp pluggins.vim ${DIR_VIMPLUG}
 cp keybinds.vim ${DIRBASE}
+cp coc.vim ${DIRBASE}
 
 curl -o plug.vim https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 mv plug.vim ${DIR_AUTOLOAD}

@@ -17,3 +17,8 @@ source /home/root/.config/nvim/vim-plug/pluggins.vim
 
 " --// Keyboard shortcut
 source /home/root/.config/nvim/keybinds.vim
+
+" --// COC default config
+source /home/root/.config/nvim/coc.vim
+
+

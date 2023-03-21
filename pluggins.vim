@@ -5,4 +5,5 @@ call plug#begin('/home/root/.config/nvim/autoload/plugged')
 	Plug 'nvim-lua/plenary.nvim'
 	Plug 'nvim-telescope/telescope.nvim'
         Plug 'ambv/black'
+        Plug 'neoclide/coc.nvim', {'branch': 'release'}
 call plug#end()
